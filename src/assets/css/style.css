@@ -47,9 +47,15 @@ button.zero {
 }
 
 .grey-button {
+    background-color: #d6d6d6;
+}
+
+.light-grey-button{
     background-color: #e0e0e0;
 }
 
+
+.light-grey-button:hover,
 .grey-button:hover {
     background-color: #8e8e8e;
 }
